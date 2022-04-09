@@ -14,3 +14,6 @@ suficiente para realizar o saque e/ou pagar a taxa.</br>
 Então, criei um programa que realiza o cadastro de uma conta, dando opção para que seja ou não 
 informado o valor de depósito inicial. Em seguida, realizar um depósito e depois um saque, sempre 
 mostrando os dados da conta após cada operação. 
+
+# Objetivo:
+Meu propósto para com este sistema é praticar noções básica de programação orientada a objetos utilizando: Classes, métodos, objetos, construtores, encapsulamento, sobrecarga, getters, setters e modificadores de acesso.
