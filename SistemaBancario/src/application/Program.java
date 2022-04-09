@@ -12,12 +12,6 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		/*	Cadastro: Número da conta -> Inalterável
-			Nome: Pode ser alterado
-			Depósito inicial(opcional) -> Criar sobrecarga
-			Saldo da conta: Inalterável (So aumenta por deposito; so diminui por saque)
-			Saque: taxa de 5 reais  */
-		
 		System.out.printf("Enter account number: ");
 		int number = sc.nextInt();
 		System.out.printf("Enter account holder: ");
